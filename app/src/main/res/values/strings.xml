@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">task413</string>
+    <string name="alertLabel">Tap me for alert</string>
+    <string name="alertButton">Alert</string>
+    <string name="timePicker">Pick one</string>
+    <string name="dateButton">date</string>
+    <string name="timeButton">time</string>
+</resources>
